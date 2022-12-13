@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\EjercicioPracticaETS\\EjercicioPracticaETS.csproj": {}
+    "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\RepoconGuille\\EjercicioPracticaETS\\EjercicioPracticaETS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\EjercicioPracticaETS\\EjercicioPracticaETS.csproj": {
+    "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\RepoconGuille\\EjercicioPracticaETS\\EjercicioPracticaETS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\EjercicioPracticaETS\\EjercicioPracticaETS.csproj",
+        "projectUniqueName": "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\RepoconGuille\\EjercicioPracticaETS\\EjercicioPracticaETS.csproj",
         "projectName": "EjercicioPracticaETS",
-        "projectPath": "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\EjercicioPracticaETS\\EjercicioPracticaETS.csproj",
+        "projectPath": "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\RepoconGuille\\EjercicioPracticaETS\\EjercicioPracticaETS.csproj",
         "packagesPath": "C:\\Users\\ModuloPRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\EjercicioPracticaETS\\obj\\",
+        "outputPath": "C:\\Users\\ModuloPRO\\Desktop\\ETS kraken\\RepoconGuille\\EjercicioPracticaETS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ModuloPRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
